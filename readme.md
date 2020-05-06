@@ -1,7 +1,8 @@
 2020spring_01class_team1
 =============
 
-##팀원
+팀원
+-------------
 
 	고준서
 	이은호
@@ -10,7 +11,8 @@
 	황유나
 
 
-##repository structure
+repository structure
+-------------
 
 	PROJECT ROOT
 	└docs: Basic Documentation
