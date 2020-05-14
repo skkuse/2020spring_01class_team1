@@ -16,5 +16,6 @@ repository structure
 
 	PROJECT ROOT
 	└docs: Basic Documentation
-		└meeting_docs: Documentation made for meeting
+		└meeting_docs: Documentations made for meeting
 		└proposal.pdf
+		└requirements.pdf
