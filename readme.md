@@ -19,3 +19,4 @@ repository structure
 		└meeting_docs: Documentations made for meeting
 		└proposal.pdf
 		└requirements.pdf
+		└design_specification.pdf
