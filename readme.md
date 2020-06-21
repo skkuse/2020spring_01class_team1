@@ -20,3 +20,9 @@ repository structure
 		└proposal.pdf
 		└requirements.pdf
 		└design_specification.pdf
+		
+		
+presentation
+-------------
+
+https://youtu.be/VPPsDhy_UjU
